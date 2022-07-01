@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TODOs-Machine-react/static/css/main.da2aae54.css",
+    "main.js": "/TODOs-Machine-react/static/js/main.efe59347.js",
+    "index.html": "/TODOs-Machine-react/index.html",
+    "main.da2aae54.css.map": "/TODOs-Machine-react/static/css/main.da2aae54.css.map",
+    "main.efe59347.js.map": "/TODOs-Machine-react/static/js/main.efe59347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da2aae54.css",
+    "static/js/main.efe59347.js"
+  ]
+}
